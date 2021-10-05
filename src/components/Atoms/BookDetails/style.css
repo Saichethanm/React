@@ -1,0 +1,32 @@
+#authors{
+    padding: 5% 0;
+    font-weight: 600;
+    color: rgb(102 102 102 / 72%);
+}
+
+.thumbnail{
+    font-size: small;
+    font-weight: 600;
+    padding: 10% 5%;
+    overflow: inherit;
+    text-align: left;
+}
+
+#title{
+    font-size: medium;
+}
+
+.reads{
+    display: flex;
+    font-size: small;
+    font-weight: 400;
+    color: rgb(102 102 102 );
+    justify-content: space-between;
+}
+
+#more{
+    font-size: large;
+    text-align: right;
+    padding: 1%;
+    padding-top: 5%;
+}

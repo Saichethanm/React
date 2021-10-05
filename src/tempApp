@@ -1,0 +1,28 @@
+import './App.css';
+// import Greet from './components/Greet';
+// import Welcome from './components/Welcome'
+// import Hello from './components/Hello'
+import Message from './components/Message';
+// import Counter from './components/Counter';
+// import FunctionEventHandler from './components/FunctionEventHandler';
+// import Listing from './components/Listing';
+// import Ifelse from './components/Ifelse';
+
+function App() {
+  return (
+    <div>
+      {/* <Greet att1="This is a prop"/> 
+      <Welcome att1="This is class component attribute">This is content in between Class component.</Welcome>
+      <Hello /> */}
+      <Message></Message>
+      {/* <Counter/> */}
+      {/* <FunctionEventHandler></FunctionEventHandler>
+      <Listing></Listing> */}
+    </div>
+  );
+}
+
+//Greet is a component 
+
+export default App;
+
